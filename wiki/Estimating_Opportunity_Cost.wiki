@@ -24,7 +24,7 @@ With these inputs, the program performs four steps (see the diagram):
 Together these four steps lead to a two-dimensional graph charting the opportunity costs of avoiding deforesting land-use changes against volume of carbon-dioxide equivalent emissions.
 
 [http://www.worldagroforestry.org/sea/files/opcost_diagram_s.png]
- 
+
 _Steps in deriving an opportunity cost (Op-cost) curve that relates the changes in economic profitability (net present value) and typical carbon stocks of land-use (LU) systems, to a land-use change matrix that describes the changes that have occurred (for a retrospective Op-cost curve) or might occur (for a scenario Op-cost curve)._
 
 As indication of a feasible level of economic incentives, a price level of US$ 5/tCO2e, is used as default leaving some space for transaction and implementation costs. The user can easily adjust this price level and evaluate the consequences. 
