@@ -5,7 +5,7 @@ Opportunity costs refer to the potential economic gains that could be made if ce
 
 [http://www.worldagroforestry.org/sea/files/chart_s.jpg]
 
-Opportunity cost curves indicate how much emission reduction might be feasible at what price. The basis for their constructing is **[1*] The differences in economic value ($/ha) and [2*] Time-averaged C stock (t C/ha) of any type of [3*] land use change. The land use change may have occurred (if the opportunity cost is a retrospective analysis of recent history) or is deemed plausible in a forward looking scenario of land use change.
+Opportunity cost curves indicate how much emission reduction might be feasible at what price. The basis for their constructing is '['1']' The differences in economic value ($/ha) and '['2']' Time-averaged C stock (t C/ha) of any type of '['3']' land use change. The land use change may have occurred (if the opportunity cost is a retrospective analysis of recent history) or is deemed plausible in a forward looking scenario of land use change.
 
 REDD Abacus was developed to analyze the opportunity cost of land use changes in a landscape or area within a period of time and generate the abatement cost curve using
 
@@ -25,6 +25,6 @@ Together these four steps lead to a two-dimensional graph charting the opportuni
 
 [http://www.worldagroforestry.org/sea/files/opcost_diagram_s.png]
  
-_Steps in deriving an opportunity cost (OpCost) curve that relates the changes in economic profitability (net present value) and typical carbon stocks of land-use (LU) systems, to a land-use change matrix that describes the changes that have occurred (for a retrospective OpCost curve) or might occur (for a scenario OpCost curve)._
+_Steps in deriving an opportunity cost (Op-cost) curve that relates the changes in economic profitability (net present value) and typical carbon stocks of land-use (LU) systems, to a land-use change matrix that describes the changes that have occurred (for a retrospective Op-cost curve) or might occur (for a scenario Op-cost curve)._
 
-As indication of a feasible level of economic incentives, a price level of USD 5/tCO2e, is used as default leaving some space for transaction and implementation costs. The user can easily adjust this price level and evaluate the consequences. 
+As indication of a feasible level of economic incentives, a price level of US$ 5/tCO2e, is used as default leaving some space for transaction and implementation costs. The user can easily adjust this price level and evaluate the consequences. 
