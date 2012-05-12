@@ -5,7 +5,7 @@ Opportunity costs refer to the potential economic gains that could be made if ce
 
 [http://www.worldagroforestry.org/sea/files/chart_s.jpg]
 
-Opportunity cost curves indicate how much emission reduction might be feasible at what price. The basis for their constructing is '[1]' The differences in economic value ($/ha) and '[2]' Time-averaged C stock (t C/ha) of any type of '[3]' land use change. The land use change may have occurred (if the opportunity cost is a retrospective analysis of recent history) or is deemed plausible in a forward looking scenario of land use change.
+Opportunity cost curves indicate how much emission reduction might be feasible at what price. The basis for their constructing is '1' The differences in economic value ($/ha) and '2' Time-averaged C stock (t C/ha) of any type of '3' land use change. The land use change may have occurred (if the opportunity cost is a retrospective analysis of recent history) or is deemed plausible in a forward looking scenario of land use change.
 
 REDD Abacus was developed to analyze the opportunity cost of land use changes in a landscape or area within a period of time and generate the abatement cost curve using
 
