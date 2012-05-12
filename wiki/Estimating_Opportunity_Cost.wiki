@@ -1,0 +1,10 @@
+#summary The Basic Methods For Estimating Opportunity Cost.
+#labels Featured
+
+= Introduction =
+
+Opportunity costs refer to the potential economic gains that could be made if certain types of land use change are not happening, e.g. as part of an emission reduction program. If the opportunity costs are low relative to the amount of emission reduction that can be achieved by avoiding this category of land use change, it may be of interest to stakeholders of emission reduction to offset the opportunity costs and make contracts that secure that the carbon remains stored. The difference in economic value ($/ha), per unit avoidable emission (tCO2e/ha) takes the dimensions of a price ($/tCO2e). If the economic value of emission reduction elsewhere (e.g. on a virtual ‘carbon market’) is higher than the opportunity costs of avoiding emissions in a certain landscape, it may be financially attractive for all parties to develop contracts that ensure local emission reduction. Several other elements of price (implementation and monitoring plus transaction costs) also play a role, but if opportunity costs are higher than going market prices, discussions of economic incentives for voluntary emission reduction will be a non-starter.
+
+
+= Details =
+
